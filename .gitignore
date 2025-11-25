@@ -1,0 +1,19 @@
+# Ignore Terraform working directory
+**/.terraform/
+
+# Ignore Terraform state
+*.tfstate
+*.tfstate.backup
+**/terraform.tfstate
+**/terraform.tfstate.backup
+
+# Ignore Python __pycache__
+__pycache__/
+
+# Ignore Docker build cache
+**/node_modules/
+*.log
+
+# Ignore .git inside subfolders
+docker-terraform/.git/
+k8s-terraform/.git/
