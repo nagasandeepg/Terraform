@@ -4,6 +4,12 @@
 # Part 2: Kubernetes + Terraform  
 # Full Detailed Documentation - Steps, Explanations, Modules, Enhancements
 
+===========
+Clone Repo
+===========
+
+https://github.com/nagasandeepg/Terraform.git
+
 # ============================================
 # PART 1 - DOCKER + TERRAFORM PROJECT
 # ============================================
